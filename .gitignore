@@ -1,0 +1,13 @@
+# Private files
+datasets/
+databases/
+models/
+GATA*/
+images/
+meme_out/
+files/
+pfm/
+test/
+wandb/
+*.ipynb
+__pycache__/
